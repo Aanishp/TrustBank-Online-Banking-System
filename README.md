@@ -74,7 +74,7 @@ http://127.0.0.1:5000
 
 ## 👥 Team Members  
 🚀 [Aanish P](https://github.com/Aanishp)  
-🚀 [](https://github.com/prajwal50)  
+🚀 [M S Prajwal](https://github.com/prajwal50)  
 🚀 [Harshith Dasari](https://github.com/Harshith1320)  
 🚀 [Vijay Varma K](https://github.com/vijayvarmastr-11)  
 
