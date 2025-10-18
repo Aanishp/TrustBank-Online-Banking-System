@@ -72,10 +72,13 @@ http://127.0.0.1:5000
 
 ---
 
-## 👥 **Team Members**
-This project was a collaborative effort by:
-- [Aanish P] (https://github.com/Aanishp)
-- [Team Member 2's Name] (@github-username)
-- [Team Member 3's Name] (@github-username)
-- [Team Member 4's Name] (@github-username)
+## 👥 Team Members  
+🚀 [Aanish P](https://github.com/Aanishp)  
+🚀 [](https://github.com/prajwal50)  
+🚀 []()  
+🚀 []()  
 
+📍 **Department of Artificial Intelligence & Machine Learning**  
+📍 **BMS Institute of Technology & Management, Bengaluru** 
+
+---
