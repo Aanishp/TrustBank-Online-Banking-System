@@ -75,8 +75,8 @@ http://127.0.0.1:5000
 ## 👥 Team Members  
 🚀 [Aanish P](https://github.com/Aanishp)  
 🚀 [](https://github.com/prajwal50)  
-🚀 []()  
-🚀 []()  
+🚀 [](https://github.com/Harshith1320)  
+🚀 [](https://github.com/vijayvarmastr-11)  
 
 📍 **Department of Artificial Intelligence & Machine Learning**  
 📍 **BMS Institute of Technology & Management, Bengaluru** 
